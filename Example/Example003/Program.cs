@@ -1,4 +1,10 @@
-﻿int numberA = 35;
-int numberB = 53;
-int result = numberA + numberB;
+﻿using System;
+double numberA = 12;
+double numberB = 5;
+double result = numberA / numberB;
 Console.WriteLine(result);
+
+// int numberA = 35;
+// int numberB = 53;
+// int result = numberA + numberB;
+// Console.WriteLine(result);
